@@ -2,5 +2,4 @@
 Collaboration Project Page
 
 Team Members:
-Gregory Degenhart
-Kyle Williams
+Gregory Degenhart and Kyle Williams
